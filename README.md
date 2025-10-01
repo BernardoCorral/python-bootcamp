@@ -20,5 +20,5 @@ O objetivo é documentar meu aprendizado em Python, incluindo exercícios, prát
 - Projetos aplicados: integração de conceitos em exercícios maiores
 
 ## Certificado
-O certificado de conclusão do curso está disponível em `assets/certificado.png`.
-"@ | Out-File -Encoding utf8 README.md
+O certificado de conclusão do curso está disponível em `assets/certificado-python-bootcamp.jpg`.
+
