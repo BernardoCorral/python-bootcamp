@@ -1,4 +1,3 @@
-@"
 # Python Bootcamp
 
 Repositório com os notebooks que desenvolvi durante o curso **Complete Python 3 Bootcamp (Udemy)**.  
