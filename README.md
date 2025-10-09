@@ -19,5 +19,7 @@ O objetivo é documentar meu aprendizado em Python, incluindo exercícios, prát
 - Projetos aplicados: integração de conceitos em exercícios maiores
 
 ## Certificado
-O certificado de conclusão do curso está disponível em `assets/certificado-python-bootcamp.jpg`.
+
+![Certificado — Complete Python 3 Bootcamp](assets/certificado-python-bootcamp.jpg)
+
 
